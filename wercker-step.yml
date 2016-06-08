@@ -1,5 +1,7 @@
-name: glide-install
+name: glide-install-and-test
 version: 2.0.0
-description: using glide to install dependencies
+description: using glide to install dependencies and run tests
 keywords:
   - glide
+  - test
+  - glide novendor
