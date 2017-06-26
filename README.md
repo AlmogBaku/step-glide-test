@@ -11,7 +11,7 @@ version of the step to `1.0.0`.
 ```yaml
 build:
     steps:
-         - AlmogBaku/glide-test
+         - almogbaku/glide-test
 ```
 
 # License
